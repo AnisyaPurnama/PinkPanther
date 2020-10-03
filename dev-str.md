@@ -25,10 +25,8 @@
 * Make a new branch
 * Commit the changes
 
-# Step 5: Introduce Arphie
-
+#  Step 5: Introduce Arphie
 * Make one MD file for the Member
 * Add the biography of the Member
 * Make a new branch
 * Commit the changes
-
