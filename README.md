@@ -65,3 +65,10 @@ A User can see a empty site at the correct URL
 ## Finishing Touches
 
 * Review everything if it's alright and done
+
+## Team PinkPanther
+
+- [Ems](./Ems.md)
+- [Saban](./Saban.md)
+- [Abu](./Abu.md)
+- [Arphine](./Arphie.md)
